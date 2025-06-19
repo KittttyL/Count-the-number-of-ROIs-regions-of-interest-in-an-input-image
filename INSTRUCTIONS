@@ -1,9 +1,1 @@
-INSTRUCTIONS:
-THE PURPOSE OF OUR CODE IS TO COUNT THE NUMBER OF ROIs (regions of interest) IN AN INPUT IMAGE. THE CODE WAS DESIGNED SPECIFICALLY FOR CELLS (bacteria, yeast, human cells, etc.) (Synthetic cell images were used in the planning and testing of the code) BUT CAN BE USED FOR OTHER ROIs IF DESIRED. The code also creates a csv file of images and cell counts if the user wants.
-Our code does this through image thresholding, binary masking and using some loops, functions and dictionaries
-To be able to run this code on your computer, please make sure that you have downloaded "Imageio", "Matplotlib", "Numpy", "Scikit-image", and "Microsoft Excel" (to be able to open the csv file)
-The dataset used to test our project is "Synthetic Cell Images and Masks" (only images were used, masks were not used), which was generated using the SIMCEP simulation tool (dataset is available in Kaggle). However, the images in the dataset are in .tif format. Unfortunately, .tif and .tiff formats are not supported by our code.
-Hence, the test images were converted to .png or .jpg files (using a web converter) before using. 
-If you are willing to use images from the same dataset or any images with .tif or .tiff format, please ensure to convert these files into any supported formats (which are .png, .jpeg, .jpg)
-Lastly, please ensure that the input images are in the same directory as Wing 101.
-To create our code, we have used Data Carpentry - Image Processing with Python, OpenAI ChatGPT and Python help().
+
