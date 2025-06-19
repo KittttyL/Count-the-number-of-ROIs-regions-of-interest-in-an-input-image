@@ -1,6 +1,6 @@
 # Count-the-number-of-ROIs-in-an-input-image
-Created by: Qiting Lin, Hilal Peri
-2024.12.01 for CSCA20
+Created by: Qiting Lin, Hilal Peri.
+2024.12.01 CSCA20
 
 INSTRUCTIONS:
 THE PURPOSE OF OUR CODE IS TO COUNT THE NUMBER OF ROIs (regions of interest) IN AN INPUT IMAGE. THE CODE WAS DESIGNED SPECIFICALLY FOR CELLS (bacteria, yeast, human cells, etc.) (Synthetic cell images were used in the planning and testing of the code) BUT CAN BE USED FOR OTHER ROIs IF DESIRED. The code also creates a csv file of images and cell counts if the user wants.
